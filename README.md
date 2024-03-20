@@ -4,7 +4,9 @@ This project involves the creation of an automated web scraping script utilizing
 
 ## Tools Used
 Python: The programming language used for scripting.
+
 Selenium: A powerful tool for automating web browsers. It is particularly useful for tasks such as testing web applications and web scraping.
+
 Web Browser Driver: Selenium requires a web browser driver to interact with the web browser. The driver used for this project was the ChromeDriver
 
 ## How to Use
