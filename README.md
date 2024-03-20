@@ -10,11 +10,11 @@ Web Browser Driver: Selenium requires a web browser driver to interact with the 
 ## How to Use
 1. Clone the Repository: Start by cloning or downloading the repository to your local machine.
    
-` git clone https://github.com/your_username/automated_web_scraping_project.git `
+` git clone https://github.com/your_username/appointment-automate-python.git `
 
 3. Install Dependencies: Navigate to the project directory and install the required Python dependencies using pip.
 
-` cd automated_web_scraping_project `
+` cd appointment-automate-python `
 
 ` pip install -r requirements.txt `
 
