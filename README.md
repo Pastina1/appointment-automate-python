@@ -14,7 +14,7 @@ Web Browser Driver: Selenium requires a web browser driver to interact with the 
 
 3. Install Dependencies: Navigate to the project directory and install the required Python dependencies using pip.
 
-` cd appointment-automate-python `
+` cd appointment-automate-python/src `
 
 ` pip install -r requirements.txt `
 
